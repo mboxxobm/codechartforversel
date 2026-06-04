@@ -1,0 +1,14 @@
+{
+  "name": "codechartforversel",
+  "version": "2026.6.4",
+  "private": true,
+  "description": "CODELAGGY.JP board chart tick viewer packaged for Vercel static hosting.",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "python3 -m http.server 8766",
+    "check": "node --check app-json-20260602.js"
+  },
+  "devDependencies": {
+    "vercel": "^50.0.0"
+  }
+}
