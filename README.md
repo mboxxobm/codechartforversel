@@ -2,7 +2,7 @@
 
 CODE CHART の歩み値・板・チャート検証ツールを Vercel 静的ホスティング向けに切り出した版です。
 
-## 動作
+## 動作 
 
 - ブラウザ上で CSV / JSON を選択して読み込みます。
 - `main_Ticks.json`、`main_Masters.json`、`main_ItaRows.json` の複数ファイル読み込みに対応しています。
