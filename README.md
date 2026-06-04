@@ -22,9 +22,16 @@ python3 -m http.server 8766
 
 Vercel 側ではビルドコマンドなし、出力ディレクトリはプロジェクトルートです。
 
+Project Settings は次の形にします。
+
+- Framework Preset: Other
+- Root Directory: `.` または未設定
+- Build Command: 空欄
+- Output Directory: 空欄
+- Install Command: 空欄でも可
+
 CLI で直接デプロイする場合:
 
 ```bash
 npx vercel --prod
 ```
-deploy trigger 2026-06-04
