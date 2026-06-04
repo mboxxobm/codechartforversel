@@ -27,3 +27,4 @@ CLI で直接デプロイする場合:
 ```bash
 npx vercel --prod
 ```
+deploy trigger 2026-06-04
