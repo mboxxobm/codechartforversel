@@ -1,6 +1,6 @@
 # CODECHART for Vercel
 
-CODELAGGY.JP の歩み値・板・チャート検証ツールを Vercel 静的ホスティング向けに切り出した版です。
+CODE CHART の歩み値・板・チャート検証ツールを Vercel 静的ホスティング向けに切り出した版です。
 
 ## 動作
 
